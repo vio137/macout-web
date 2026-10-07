@@ -1,6 +1,6 @@
 # MAC-OUT website
 
-A static product site and 11-scene interactive presentation for MAC-OUT 1.1.0.
+A static product site and 23-scene interactive presentation for MAC-OUT 1.1.0.
 
 ## Run
 
@@ -36,3 +36,9 @@ App screenshots are real Ubuntu GTK/Xvfb captures from the 1.1.0 repository.
 The MAKAUT JPEG is used unchanged. Neither the logo nor a demonstration address implies endorsement or hardware identity.
 
 Made for Arnab Mandal's CA-1 presentation. Special thanks to Dr. Nabanita Ganguly.
+
+
+## October 2026 educational expansion
+23 editable HTML scenes and a source-verified MAC/macchanger foundations section, function atlas and conditional command trace. Original animations and simulation interactions are preserved. Official current MAKAUT emblem: https://makautwb.ac.in/notun/images/logo.png (observed on the university homepage https://makautwb.ac.in/). The user's original larger project logo is retained in the presentation. Neither logo implies university endorsement.
+
+Command descriptions are traced to macout_app/backend.py and services.py on https://github.com/vio137/macout. The browser is an educational simulator only; it executes no network commands.
